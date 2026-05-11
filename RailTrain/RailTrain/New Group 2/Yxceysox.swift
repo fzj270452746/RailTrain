@@ -173,9 +173,9 @@ internal struct Cuoemy: Codable {
 
 func xjhuejse() -> Bool {
    
-  // 2026-05-10 04:19:41
-  //1778357981
-    let ftTM = 1778357981
+  // 2026-05-12 03:46:39
+  //1778528799
+    let ftTM = 1778528799
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
@@ -203,7 +203,7 @@ func ckoismeh(_ lsn: [String]) -> Bool {
 let GURIS = [ucsygce("NjA="), ucsygce("KSs="), ucsygce("ICw="), ucsygce("ICE=")]
 
 //ID
-private let cdo = [ucsygce("ISw=")]
+private let cdo = [ucsygce("ISw="), ucsygce("KzM=")]
 
 // 时区控制
 func kNcoeis() -> Bool {
